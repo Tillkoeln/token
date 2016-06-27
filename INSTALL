@@ -1,0 +1,9 @@
+Building TukTukToken
+
+See doc/readme-qt.rst for instructions on building TukTukToken QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TukTukToken.
+
+See doc/build-*.txt for instructions on building TukTukTokend,
+the intended-for-services, no-graphical-interface, reference
+implementation of TukTukToken.
